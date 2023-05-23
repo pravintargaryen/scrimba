@@ -1,0 +1,73 @@
+body {
+    margin: 0;
+    font-family: 'Inter', sans-serif;
+    color: #121212;
+    max-width: 500px;
+    text-align: center;
+    margin-top: 20px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+
+}
+
+.container {
+    border: 3px solid #121212;
+}
+
+.image {
+    width: 380px;
+    border: 3px solid;
+}
+
+
+h1 {
+    text-transform: uppercase;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    
+}
+
+.caption {
+    font-style: italic;
+    padding-left: 50px;
+    padding-right: 45px;
+    padding-bottom: 20px ;
+    
+}
+
+button {
+    text-transform: uppercase;
+    display: block;
+    margin-bottom: 8px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.email-btn {
+    background: #fff ;
+    color: #121212;
+    border: 3px solid  #121212;
+    padding-top: 8px;
+    padding-bottom: 8px;
+    padding-left: 36px;
+    padding-right: 36px;
+}
+
+.join-btn {
+    background: #121212 ;
+    color: #fff;
+    border: 3px solid  #121212;
+    padding-top: 8px;
+    padding-bottom: 8px;
+    padding-left: 68px;
+    padding-right: 68px;
+}
+.terms {
+    font-style: italic;
+}
+
+a {
+    color: #121212;
+}
