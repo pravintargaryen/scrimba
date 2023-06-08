@@ -1,0 +1,64 @@
+body {
+    background-color: ghostwhite;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-family: 'Josefin Sans', sans-serif;
+}
+
+.container {
+    background-color: #000000;
+    color: #fff;
+    display: flex;
+    flex-direction: column;
+    padding: 30px;
+    text-align: center;
+    
+}
+
+.logo {
+    align-self: center;
+}
+
+.champions {
+    font-size: 25px;
+}
+
+
+.input-text {
+    background: #444059;
+    color: #8F8F8F;
+    border-radius: 5px;
+    width: 335px;
+    height: 118px;
+    border: none;
+    font-size: 15px;
+    padding-left: 15px;
+    
+}
+
+.endorsements{
+    font-size: 20px;
+}
+
+.publish {
+    font-family: 'Josefin Sans', sans-serif;
+    border: none;
+    background: #28A9F1;
+    color: #04131C;
+    font-weight: bold;
+    padding: 15px 30px;
+    border-radius: 5px;
+    margin-top: 10px;
+    font-size: 22px;
+    cursor: pointer;
+}
+
+.resultlist {
+    font-family: 'Inter', sans-serif;
+    background-color: #fff;
+    color: #1B1924;
+    width: 320px;
+    padding: 15px;
+    font-size: 12px;
+}
